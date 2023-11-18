@@ -1,0 +1,11 @@
+@media (max-width: 576px) {
+    .card {
+        max-width: 100%;
+        margin: 0; 
+    }
+    .card img {
+        height: 150px;
+        width: 100%;
+        object-fit: cover;
+    }
+}
